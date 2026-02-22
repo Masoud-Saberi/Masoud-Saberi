@@ -31,8 +31,6 @@ Transforming ideas into interactive products with purpose.
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Masoud-Saberi&show_icons=true&theme=radical&cache_seconds=1800" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masoud-Saberi&theme=radical" />
 </p>
 
