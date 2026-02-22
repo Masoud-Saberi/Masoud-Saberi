@@ -46,7 +46,7 @@ Transforming ideas into interactive products with purpose.
 
 ### 🛠 Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=illustrator,photoshop,aftereffect,premiere,figma,notion,vscode,pycharm,git,github" />
+  <img src="https://skillicons.dev/icons?i=illustrator,photoshop,AfterEffects,premiere,figma,notion,vscode,pycharm,git,github" />
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,npm,python,django,postman,wordpress" />
 </p>
 
