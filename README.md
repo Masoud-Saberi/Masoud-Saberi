@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200" alt="Creative Animation" />
+<img src="[https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3p4bXA1N2k2MmI4cWVzcG5tdW1hdDE5eXhmdmpwNmE1NnFtNmticyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RTin5js0UvbzeB99uY/giphy.gif)" width="200" alt="Creative Animation" />
 </p>
 
 <p align="center">
