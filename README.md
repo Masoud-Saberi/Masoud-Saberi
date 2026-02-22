@@ -27,7 +27,7 @@ Designing meaningful digital products at the intersection of logic, aesthetics, 
 - Building **Khoshgard** – a travel discovery product
 - Growing **Designeram** – personal design ecosystem
 - Deepening knowledge in UX Research & HCI
-- Strengthening front-end logic (HTML, CSS, JS)
+- Expanding my perspective in IT & emerging technologies
 
 ---
 
