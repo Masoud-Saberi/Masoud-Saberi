@@ -34,7 +34,7 @@ Designing meaningful digital products at the intersection of logic, aesthetics, 
 ## Tools & Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=illustrator,photoshop,ae,figma,notion,vscode,git,github,html,css,tailwind,bootstrap,js,python,django,wordpress" />
+  <img src="https://skillicons.dev/icons?i=illustrator,photoshop,ae,figma,notion,vscode,github,git,html,css,js,wordpress,python,django" />
 </p>
 
 ---
