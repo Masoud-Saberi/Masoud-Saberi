@@ -17,7 +17,7 @@ Designing meaningful digital products at the intersection of logic, aesthetics, 
   </a>
     </a>
   <a href="https://www.instagram.com/masoudsaberi.8/">
-    <img src="https://img.shields.io/badge/Instagram-Creative-purple?style=for-the-badge&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Creative-purple?style=flat-square&logo=instagram" />
   </a>
 </p>
 
