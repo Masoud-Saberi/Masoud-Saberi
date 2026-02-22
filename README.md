@@ -41,39 +41,6 @@ Designing meaningful digital products at the intersection of logic, aesthetics, 
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Masoud-Saberi&show_icons=true&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masoud-Saberi&theme=radical&hide_border=true" />
-</p>
-
----
-
-# Now the creative part ✨
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut1g4w/giphy.gif" width="180"/>
-</p>
-
-### I believe:
-
-- Products should feel obvious.
-- Interfaces should feel calm.
-- Design is not decoration — it's structured thinking.
-- Simplicity is engineered, not accidental.
-
----
-
-### Currently Thinking About
-
-- Micro-interactions that guide without noise  
-- How AI reshapes creative workflows  
-- How to turn complex systems into intuitive experiences  
-
----
-
 <p align="center">
   <i>Building quietly. Improving constantly. Designing intentionally.</i>
 </p>
