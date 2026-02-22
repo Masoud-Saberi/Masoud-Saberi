@@ -15,6 +15,10 @@ Designing meaningful digital products at the intersection of logic, aesthetics, 
   <a href="https://t.me/Masoudsaberi_8">
     <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram" />
   </a>
+    </a>
+  <a href="https://www.instagram.com/masoudsaberi.8/">
+    <img src="https://img.shields.io/badge/Instagram-Creative-purple?style=for-the-badge&logo=instagram" />
+  </a>
 </p>
 
 
