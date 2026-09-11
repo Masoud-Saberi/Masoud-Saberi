@@ -1,49 +1,69 @@
-<h1 align="center">Masoud Saberi</h1>
-
 <p align="center">
-  Product Designer · UX Thinker
+  <img src="./assets/header.svg" alt="Masoud Saberi" width="100%" />
 </p>
 
 <p align="center">
-  Designing clear, thoughtful digital products through systems, interaction, and human behavior.
+  Product Designer · Creative Technologist
 </p>
 
 <p align="center">
-  <a href="https://designeram.ir">Portfolio</a>
-  &nbsp;·&nbsp;
+  Designing digital products through clarity, systems, interaction, and human behavior.
+</p>
+
+<p align="center">
+  <a href="https://designeram.ir">Website</a>
+  ·
   <a href="https://www.linkedin.com/in/designeram-ir/">LinkedIn</a>
-  &nbsp;·&nbsp;
+  ·
   <a href="mailto:masoudsaberi10@gmail.com">Email</a>
 </p>
 
-<br>
+---
 
 ### About
 
-I’m a product designer interested in the intersection of **design, technology, and human behavior**.
+I design thoughtful digital experiences at the intersection of **product design, visual systems, and technology**.
 
-I care about reducing complexity, building thoughtful systems, and turning ambiguous problems into simple digital experiences.
+My work blends **UX/UI, branding, motion, web, and creative problem solving** — with a focus on building clear, intentional, and useful products.
 
-Currently building and exploring products through **Designeram**.
-
-<br>
+---
 
 ### Focus
 
-`Product Design` &nbsp; `UX/UI` &nbsp; `Design Systems` &nbsp; `Interaction Design` &nbsp; `HCI`
+- Product Design
+- UX/UI Design
+- Design Systems
+- Web Design
+- Front-end Exploration
+- Motion & Visual Thinking
 
-<br>
+---
 
 ### Toolkit
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop,ae,notion,vscode,github,git,html,css,js,python" />
-</p>
+**Design**  
+`Figma` `Adobe XD` `Photoshop` `Illustrator` `InDesign`
 
-<br>
+**Motion & Visual**  
+`After Effects` `Premiere Pro` `Audition` `Media Encoder` `Blender`
+
+**Web & Code**  
+`HTML` `CSS` `JavaScript` `Python` `VS Code` `Git` `GitHub` `WordPress`
+
+**Workflow**  
+`Notion` `Telegram` `Chrome` `Firefox`
+
+---
+
+### Current Direction
+
+- Growing **Designeram**
+- Building digital products with a stronger design perspective
+- Expanding into **web, code, and product thinking**
+- Learning continuously across design and technology
 
 ---
 
 <p align="center">
-  <sub>Designing with intention.</sub>
+  <sub>Designeram — Designing with intention.</sub>
 </p>
