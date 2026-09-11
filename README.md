@@ -1,48 +1,49 @@
 <h1 align="center">Masoud Saberi</h1>
-<h3 align="center">Product Designer • UX Thinker • IT Student</h3>
 
 <p align="center">
-Designing meaningful digital products at the intersection of logic, aesthetics, and human behavior.
+  Product Designer · UX Thinker
 </p>
 
 <p align="center">
-  <a href="mailto:masoudsaberi10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-black?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/designeram-ir/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://t.me/Masoudsaberi_8">
-    <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=flat-square&logo=telegram" />
-  </a>
-    </a>
-  <a href="https://www.instagram.com/masoudsaberi.8/">
-    <img src="https://img.shields.io/badge/Instagram-Creative-purple?style=flat-square&logo=instagram" />
-  </a>
+  Designing clear, thoughtful digital products through systems, interaction, and human behavior.
 </p>
 
-
-
-
----
-
-## Current Focus
-
-- Building **Khoshgard** – a travel discovery product
-- Growing **Designeram** – personal design ecosystem
-- Deepening knowledge in UX Research & HCI
-- Expanding my perspective in IT & emerging technologies
-
----
-
-## Tools & Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=illustrator,photoshop,ae,figma,notion,vscode,github,git,html,css,wordpress,js,python,django" />
+  <a href="https://designeram.ir">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/designeram-ir/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:masoudsaberi10@gmail.com">Email</a>
 </p>
 
+<br>
+
+### About
+
+I’m a product designer interested in the intersection of **design, technology, and human behavior**.
+
+I care about reducing complexity, building thoughtful systems, and turning ambiguous problems into simple digital experiences.
+
+Currently building and exploring products through **Designeram**.
+
+<br>
+
+### Focus
+
+`Product Design` &nbsp; `UX/UI` &nbsp; `Design Systems` &nbsp; `Interaction Design` &nbsp; `HCI`
+
+<br>
+
+### Toolkit
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop,ae,notion,vscode,github,git,html,css,js,python" />
+</p>
+
+<br>
+
 ---
 
 <p align="center">
-  <i>Building quietly. Improving constantly. Designing intentionally.</i>
+  <sub>Designing with intention.</sub>
 </p>
