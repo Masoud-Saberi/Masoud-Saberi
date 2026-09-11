@@ -3,67 +3,89 @@
 </p>
 
 <p align="center">
-  Product Designer · Creative Technologist
+  <strong>Product Designer</strong> × <strong>UX Thinker</strong> × <strong>Creative Technologist</strong>
 </p>
 
 <p align="center">
-  Designing digital products through clarity, systems, interaction, and human behavior.
+  Designing digital experiences through clarity, systems, interaction, and human behavior.
 </p>
 
 <p align="center">
-  <a href="https://designeram.ir">Website</a>
-  ·
-  <a href="https://www.linkedin.com/in/designeram-ir/">LinkedIn</a>
-  ·
-  <a href="mailto:masoudsaberi10@gmail.com">Email</a>
+  <a href="https://designeram.ir">
+    <img src="https://img.shields.io/badge/Portfolio-Designeram-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/designeram-ir/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:masoudsaberi10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/Masoudsaberi_8">
+    <img src="https://img.shields.io/badge/Telegram-Message-0f0f0f?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### About
+## ✦ About Me
 
-I design thoughtful digital experiences at the intersection of **product design, visual systems, and technology**.
+I'm **Masoud Saberi**, a multidisciplinary designer working across **product design, UX/UI, branding, motion, web, and creative technology**.
 
-My work blends **UX/UI, branding, motion, web, and creative problem solving** — with a focus on building clear, intentional, and useful products.
-
----
-
-### Focus
-
-- Product Design
-- UX/UI Design
-- Design Systems
-- Web Design
-- Front-end Exploration
-- Motion & Visual Thinking
+I enjoy building digital products that feel **clear, intentional, and human** — where logic, aesthetics, and interaction work together.
 
 ---
 
-### Toolkit
+## ✦ What I Do
 
-**Design**  
-`Figma` `Adobe XD` `Photoshop` `Illustrator` `InDesign`
-
-**Motion & Visual**  
-`After Effects` `Premiere Pro` `Audition` `Media Encoder` `Blender`
-
-**Web & Code**  
-`HTML` `CSS` `JavaScript` `Python` `VS Code` `Git` `GitHub` `WordPress`
-
-**Workflow**  
-`Notion` `Telegram` `Chrome` `Firefox`
+- Design digital products with a strong UX mindset
+- Build interfaces, systems, and visual identities
+- Explore web design and front-end implementation
+- Work across motion, visual storytelling, and interaction
+- Learn continuously across design × technology
 
 ---
 
-### Current Direction
+## ✦ Toolbox
 
-- Growing **Designeram**
-- Building digital products with a stronger design perspective
-- Expanding into **web, code, and product thinking**
-- Learning continuously across design and technology
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,ae,pr,au,blender,html,css,js,python,vscode,git,github,wordpress,notion" />
+</p>
+
+---
+
+## ✦ Creative + Workflow Space
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-111111?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Creative_Cloud-111111?style=flat-square&logo=adobecreativecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-111111?style=flat-square&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spotify-111111?style=flat-square&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome-111111?style=flat-square&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firefox-111111?style=flat-square&logo=firefoxbrowser&logoColor=white" />
+</p>
+
+---
+
+## ✦ Current Focus
+
+- Building and growing **Designeram**
+- Designing better product experiences
+- Expanding in **web + code + digital systems**
+- Sharpening my thinking in **UX research, HCI, and interaction**
+
+---
+
+## ✦ Philosophy
+
+<p align="center">
+  <i>Designing with intention. Building with curiosity.</i>
+</p>
 
 ---
 
 <p align="center">
-  <sub>Designeram — Designing with intention.</sub>
+  <sub>Minimal by choice. Thoughtful by process.</sub>
 </p>
