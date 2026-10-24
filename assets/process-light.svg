@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="146" viewBox="0 0 1200 146" role="img" aria-labelledby="title desc">
+  <title id="title">Understand, structure, design, build, refine.</title>
+  <desc id="desc">A five-step design process, with a return line from refine to understand.</desc>
+  <rect x=".5" y=".5" width="1199" height="145" rx="12" fill="#F5F2EA" stroke="#E0DFD7"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <g fill="#3455F5" font-size="13" font-weight="600" letter-spacing="1.5">
+      <text x="34" y="34">01</text><text x="270" y="34">02</text><text x="506" y="34">03</text><text x="742" y="34">04</text><text x="978" y="34">05</text>
+    </g>
+    <g fill="#20242A" font-size="24" font-weight="600" letter-spacing="-.5">
+      <text x="34" y="71">Understand</text><text x="270" y="71">Structure</text><text x="506" y="71">Design</text><text x="742" y="71">Build</text><text x="978" y="71">Refine</text>
+    </g>
+    <g fill="none" stroke="#969CA9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M213 61H236M231 56L236 61L231 66M449 61H472M467 56L472 61L467 66M685 61H708M703 56L708 61L703 66M921 61H944M939 56L944 61L939 66"/>
+    </g>
+    <path d="M1093 92V111H47V96M42 101L47 96L52 101" fill="none" stroke="#3455F5" stroke-opacity=".35" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="502" y="101" width="196" height="20" fill="#F5F2EA"/>
+    <text x="600" y="116" text-anchor="middle" fill="#606778" font-size="11" font-weight="500" letter-spacing="1">KEEP ASKING. KEEP MAKING.</text>
+  </g>
+</svg>

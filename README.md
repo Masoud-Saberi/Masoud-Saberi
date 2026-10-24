@@ -1,91 +1,39 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Masoud Saberi" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" alt="Masoud Saberi — Design with intent. Build with care. Product design, interfaces, and code." width="1200">
+</picture>
 
-<p align="center">
-  <strong>Product Designer</strong> × <strong>UX Thinker</strong> × <strong>Creative Technologist</strong>
-</p>
+# Hello, I’m Masoud.
 
-<p align="center">
-  Designing digital experiences through clarity, systems, interaction, and human behavior.
-</p>
+**Product & interface designer · Designeram**
 
-<p align="center">
-  <a href="https://designeram.ir">
-    <img src="https://img.shields.io/badge/Portfolio-Designeram-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/designeram-ir/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:masoudsaberi10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/Masoudsaberi_8">
-    <img src="https://img.shields.io/badge/Telegram-Message-0f0f0f?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
+My work connects product thinking, visual design, and practical frontend exploration. I work across UX/UI, branding, motion, and the web—with an eye for clear structure, thoughtful details, and experiences that feel good to use.
 
----
+**[Explore my portfolio ↗](https://designeram.ir/)** &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/designeram-ir/) &nbsp; · &nbsp; [Email](mailto:masoudsaberi10@gmail.com) &nbsp; · &nbsp; [Telegram](https://t.me/Masoudsaberi_8)
 
-## ✦ About Me
+## Selected explorations
 
-I'm **Masoud Saberi**, a multidisciplinary designer working across **product design, UX/UI, branding, motion, web, and creative technology**.
+A few things I’ve built while getting closer to the code behind the interface.
 
-I enjoy building digital products that feel **clear, intentional, and human** — where logic, aesthetics, and interaction work together.
+| Project | What it explores |
+| :--- | :--- |
+| **01 · [Front-end](https://github.com/Masoud-Saberi/Front-end)** | HTML, CSS, and JavaScript practice: exploring how ideas take shape in the browser. |
+| **02 · [GraphQL](https://github.com/Masoud-Saberi/GraphQL)** | A Django tourism learning project, refactored from REST to Graphene-Django with queries, mutations, and tests. |
+| **03 · [tic_tac_toe](https://github.com/Masoud-Saberi/tic_tac_toe)** | A Python game project exploring rules, interaction, and program logic. |
 
----
+## How I approach the work
 
-## ✦ What I Do
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/process-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/process-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/process-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/process-light.svg">
+  <img src="assets/process-light.svg" alt="My process: Understand → Structure → Design → Build → Refine." width="1200">
+</picture>
 
-- Design digital products with a strong UX mindset
-- Build interfaces, systems, and visual identities
-- Explore web design and front-end implementation
-- Work across motion, visual storytelling, and interaction
-- Learn continuously across design × technology
+Understand the problem. Give it a clear structure. Design deliberately. Build something tangible. Refine what matters.
 
 ---
 
-## ✦ Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,ae,pr,au,blender,html,css,js,python,vscode,git,github,wordpress,notion" />
-</p>
-
----
-
-## ✦ Creative + Workflow Space
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows-111111?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Creative_Cloud-111111?style=flat-square&logo=adobecreativecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-111111?style=flat-square&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spotify-111111?style=flat-square&logo=spotify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chrome-111111?style=flat-square&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firefox-111111?style=flat-square&logo=firefoxbrowser&logoColor=white" />
-</p>
-
----
-
-## ✦ Current Focus
-
-- Building and growing **Designeram**
-- Designing better product experiences
-- Expanding in **web + code + digital systems**
-- Sharpening my thinking in **UX research, HCI, and interaction**
-
----
-
-## ✦ Philosophy
-
-<p align="center">
-  <i>Designing with intention. Building with curiosity.</i>
-</p>
-
----
-
-<p align="center">
-  <sub>Minimal by choice. Thoughtful by process.</sub>
-</p>
+**Have something worth making clearer?** [Let’s talk ↗](mailto:masoudsaberi10@gmail.com)

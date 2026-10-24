@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Masoud Saberi — Design with intent. Build with care.</title>
+  <desc id="desc">An editorial cream and cobalt banner with a geometric monogram and a small interface sketch on a design grid.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#20242A" stroke-opacity=".06"/></pattern>
+    <clipPath id="round"><rect x=".5" y=".5" width="1199" height="399" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="400" fill="#F5F2EA"/>
+    <rect x="772" width="428" height="400" fill="url(#grid)"/>
+    <path d="M772 0V400" stroke="#20242A" stroke-opacity=".12"/>
+    <g fill="none" stroke="#3455F5" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter" aria-hidden="true">
+      <path d="M42 53V29L54 41L66 29V53M94 33H76V41H94V49H76"/>
+    </g>
+    <text x="114" y="46" fill="#20242A" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="650" letter-spacing="2.3">MASOUD SABERI</text>
+    <rect x="42" y="102" width="29" height="4" rx="2" fill="#3455F5"/>
+    <g fill="#20242A" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="650" letter-spacing="-2.5">
+      <text x="38" y="185">Design with intent.</text>
+      <text x="38" y="261">Build with care.</text>
+    </g>
+    <text x="42" y="343" fill="#5B6069" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="500" letter-spacing="1.5">PRODUCT DESIGN / INTERFACES / CODE</text>
+    <g aria-hidden="true">
+      <path d="M831 72H1140M831 328H1140M851 52V348M1120 52V348" stroke="#3455F5" stroke-opacity=".22" stroke-dasharray="3 5"/>
+      <rect x="851" y="72" width="269" height="256" rx="10" fill="#FCFBF7" stroke="#D8D8D2"/>
+      <path d="M851 105H1120" stroke="#E3E2DB"/>
+      <circle cx="869" cy="89" r="3" fill="#BCC1C8"/><circle cx="880" cy="89" r="3" fill="#BCC1C8"/><circle cx="891" cy="89" r="3" fill="#BCC1C8"/>
+      <rect x="875" y="128" width="98" height="8" rx="4" fill="#20242A"/>
+      <rect x="875" y="148" width="177" height="5" rx="2.5" fill="#D7D9DF"/>
+      <rect x="875" y="160" width="144" height="5" rx="2.5" fill="#D7D9DF"/>
+      <rect x="875" y="191" width="105" height="71" rx="7" fill="#E9EDFF"/>
+      <path d="M894 240L913 217L930 230L953 207" fill="none" stroke="#3455F5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="992" y="191" width="104" height="71" rx="7" fill="#EEECE5"/>
+      <circle cx="1044" cy="227" r="19" fill="none" stroke="#D6D5D0" stroke-width="7"/>
+      <path d="M1044 208A19 19 0 0 1 1061 235" fill="none" stroke="#20242A" stroke-width="7" stroke-linecap="round"/>
+      <rect x="875" y="280" width="97" height="25" rx="5" fill="#3455F5"/>
+      <path d="M890 292H938M933 288L938 292L933 296" fill="none" stroke="#FFFFFF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="848" y="69" width="6" height="6" fill="#F5F2EA" stroke="#3455F5"/><rect x="1117" y="69" width="6" height="6" fill="#F5F2EA" stroke="#3455F5"/><rect x="848" y="325" width="6" height="6" fill="#F5F2EA" stroke="#3455F5"/><rect x="1117" y="325" width="6" height="6" fill="#F5F2EA" stroke="#3455F5"/>
+      <path d="M1065 284L1072 309L1078 301L1088 299Z" fill="#20242A" stroke="#FCFBF7" stroke-width="2" stroke-linejoin="round"/>
+      <rect x="1001" y="344" width="119" height="24" rx="12" fill="#3455F5"/>
+      <text x="1060.5" y="360" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing=".8">DESIGNERAM</text>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="399" rx="20" fill="none" stroke="#20242A" stroke-opacity=".1"/>
+</svg>

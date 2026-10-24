@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="412" viewBox="0 0 640 412" role="img" aria-labelledby="title desc">
+  <title id="title">Understand, structure, design, build, refine.</title>
+  <desc id="desc">Five steps in a vertical layout that stays readable on a small screen.</desc>
+  <rect x=".5" y=".5" width="639" height="411" rx="12" fill="#161B22" stroke="#303949"/>
+  <path d="M55 68V347M49 341L55 347L61 341" fill="none" stroke="#8399FF" stroke-opacity=".4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#161B22"><rect x="33" y="25" width="44" height="40"/><rect x="33" y="99" width="44" height="40"/><rect x="33" y="173" width="44" height="40"/><rect x="33" y="247" width="44" height="40"/><rect x="33" y="321" width="44" height="40"/></g>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <g fill="#8399FF" font-size="19" font-weight="600" letter-spacing="1"><text x="42" y="53">01</text><text x="42" y="127">02</text><text x="42" y="201">03</text><text x="42" y="275">04</text><text x="42" y="349">05</text></g>
+    <g fill="#F5F2EA" font-size="30" font-weight="600" letter-spacing="-.5"><text x="105" y="55">Understand</text><text x="105" y="129">Structure</text><text x="105" y="203">Design</text><text x="105" y="277">Build</text><text x="105" y="351">Refine</text></g>
+    <g stroke="#F5F2EA" stroke-opacity=".09"><path d="M105 79H592M105 153H592M105 227H592M105 301H592"/></g>
+    <text x="105" y="387" fill="#A7AEBB" font-size="14" font-weight="500" letter-spacing="1">KEEP ASKING. KEEP MAKING.</text>
+  </g>
+</svg>
