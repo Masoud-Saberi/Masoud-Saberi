@@ -12,15 +12,18 @@ My work connects product thinking, visual design, and practical frontend explora
 
 **[Explore my portfolio ↗](https://designeram.ir/)** &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/designeram-ir/) &nbsp; · &nbsp; [Email](mailto:masoudsaberi10@gmail.com) &nbsp; · &nbsp; [Telegram](https://t.me/Masoudsaberi_8)
 
-## Selected explorations
+## Life beyond the graph
 
-A few things I’ve built while getting closer to the code behind the interface.
+If my contribution graph is quiet, the rest of life probably isn’t.
 
-| Project | What it explores |
-| :--- | :--- |
-| **01 · [Front-end](https://github.com/Masoud-Saberi/Front-end)** | HTML, CSS, and JavaScript practice: exploring how ideas take shape in the browser. |
-| **02 · [GraphQL](https://github.com/Masoud-Saberi/GraphQL)** | A Django tourism learning project, refactored from REST to Graphene-Django with queries, mutations, and tests. |
-| **03 · [tic_tac_toe](https://github.com/Masoud-Saberi/tic_tac_toe)** | A Python game project exploring rules, interaction, and program logic. |
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 1024px)" srcset="assets/life-commit-mobile-dark.svg">
+  <source media="(max-width: 1024px)" srcset="assets/life-commit-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/life-commit-dark.svg">
+  <img src="assets/life-commit-light.svg" alt="An animated life commit: designing, coding, training, managing and making money. Progress does not always get committed." width="1200">
+</picture>
+
+**Design. Code. Train. Lead. Earn.** Different kinds of effort. Same commitment to moving forward.
 
 ## How I approach the work
 
