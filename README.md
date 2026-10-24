@@ -25,8 +25,8 @@ A few things I’ve built while getting closer to the code behind the interface.
 ## How I approach the work
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/process-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/process-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark) and (max-width: 1024px)" srcset="assets/process-mobile-dark.svg">
+  <source media="(max-width: 1024px)" srcset="assets/process-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/process-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/process-light.svg">
   <img src="assets/process-light.svg" alt="My process: Understand → Structure → Design → Build → Refine." width="1200">
